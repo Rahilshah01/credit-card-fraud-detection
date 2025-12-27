@@ -1,4 +1,4 @@
-# 💳 AI-Powered Fraud Detection System
+# 💳 Credit Card Fraud Detection System
 
 ## 📌 Project Overview
 Fraud detection presents a significant challenge due to extreme class imbalance (legitimate transactions vastly outnumbering fraudulent ones). This project implements a robust machine learning pipeline to identify fraudulent activity with high precision, minimizing financial loss while maintaining a positive customer experience.
